@@ -49,7 +49,5 @@ cinst -y sublimetext3
 cinst -y visualstudiocommunity2013
 
 cinst -y cygwin
-cinst -y cyg-get
-
 cinst -y vagrant
 cmd /k
