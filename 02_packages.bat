@@ -28,14 +28,14 @@ cinst -y putty
 cinst -y fiddler
 cinst -y microsoftsecurityessentials
 cinst -y nuget.commandline
-cinst -y devbox-rapidee
+cinst -y jump-location
 
 cinst -y tortoisehg
 cinst -y git
 cinst -y tortoisegit
 cinst -y githubforwindows
 
-cinst -y python
+cinst -y python2 -Version 2.7.8
 cinst -y nodejs
 cinst -y ruby
 cinst -y jdk8
@@ -51,6 +51,5 @@ cinst -y visualstudiocommunity2013
 cinst -y cygwin
 cinst -y cyg-get
 
-cinst -y pip
 cinst -y vagrant
 cmd /k
