@@ -1,6 +1,6 @@
 - install spotify (to listen to music ^^)
 - install [Rapid Enviornment Editor](http://www.rapidee.com/en/download)
-  - add cygwin\bin to the path vairable
+- add cygwin\bin to the path vairable
 - Add Winmerge to `PATH` (the command is `winmergeu`)
 - Check if python2 is set up properly
   - should be in `PATH` variable (run `python` to test)

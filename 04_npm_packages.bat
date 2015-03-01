@@ -1,7 +1,1 @@
-npm install -g gulp
-npm install -g bower
-npm install -g yo
-npm install -g typescript
-npm install -g tsd
-npm install -g generator-gulp-webapp
-npm install -g generator-gulp-angular
+npm install -g gulp bower yo typescript tsd generator-gulp-webapp generator-gulp-angular

@@ -16,6 +16,7 @@ cinst -y teamviewer
 
 cinst -y calibre
 cinst -y adobereader
+cinst -y pandoc
 
 cinst -y keepass
 cinst -y wireshark
@@ -26,7 +27,6 @@ cinst -y windirstat
 cinst -y peazip
 cinst -y putty
 cinst -y fiddler
-cinst -y microsoftsecurityessentials
 cinst -y nuget.commandline
 cinst -y jump-location
 
