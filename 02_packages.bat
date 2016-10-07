@@ -1,53 +1,27 @@
-cinst -y dropbox
-cinst -y googledrive
-cinst -y btsync
-cinst -y utorrent
-
+REM Browsers
 cinst -y googlechrome
 cinst -y firefox
 
-cinst -y paint.net
-cinst -y picasa
-cinst -y itunes
-cinst -y vlc
-
-cinst -y skype
-cinst -y teamviewer
-
-cinst -y calibre
-cinst -y adobereader
-cinst -y pandoc
-
+REM Tools
 cinst -y keepass
-cinst -y wireshark
 cinst -y winmerge
 cinst -y conemu
 cinst -y winscp
-cinst -y windirstat
+cinst -y treesizefree
 cinst -y peazip
 cinst -y putty
 cinst -y fiddler
-cinst -y nuget.commandline
-cinst -y jump-location
 
-cinst -y tortoisehg
-cinst -y git
-cinst -y tortoisegit
-cinst -y githubforwindows
+REM Developer stuffs
+cinst -y kdiff3
+cisnt -y sourcetree
+cinst -y git -params /GitAndUnixToolsOnPath
+cinst -y visualstudiocode
+cinst -y notepad2-mod
 
-cinst -y python2 -Version 2.7.8
-cinst -y nodejs
-cinst -y ruby
-cinst -y jdk8
-
-cinst -y robomongo
-cinst -y mysql.workbench
 cinst -y linqpad
 
-cinst -y vim
-cinst -y sublimetext3
-cinst -y visualstudiocommunity2013
-
-cinst -y cygwin
+cinst -y virtualbox
 cinst -y vagrant
+cinst -y packer
 cmd /k
