@@ -14,8 +14,8 @@ cinst -y fiddler
 
 REM Developer stuffs
 cinst -y kdiff3
-cisnt -y sourcetree
 cinst -y git -params /GitAndUnixToolsOnPath
+cinst -y sourcetree
 cinst -y visualstudiocode
 cinst -y notepad2-mod
 
