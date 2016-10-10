@@ -11,11 +11,13 @@ cinst -y treesizefree
 cinst -y peazip
 cinst -y putty
 cinst -y fiddler
+cinst -y baretail
 
 REM Developer stuffs
 cinst -y kdiff3
 cinst -y git -params /GitAndUnixToolsOnPath
 cinst -y sourcetree
+cinst -y git-credential-manager-for-windows
 cinst -y visualstudiocode
 cinst -y notepad2-mod
 
